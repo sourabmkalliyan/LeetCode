@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="634adb30-b556-4885-b9ab-31f53e8f6c88" name="Changes" comment="" />
+    <list default="true" id="634adb30-b556-4885-b9ab-31f53e8f6c88" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LL.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/LL.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
